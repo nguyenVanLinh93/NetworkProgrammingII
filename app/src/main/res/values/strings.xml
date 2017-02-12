@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Network Programming II</string>
+    <!-- MainActivity -->
+    <string name="Ex1">Exercises-1</string>
+    <string name="Ex2">Exercises-2</string>
+    <string name="Ex3">Exercises-3</string>
+    <string name="Ex4">Exercises-4</string>
+    <string name="Ex5">Exercises-5</string>
+
+    <!-- Exercise1Activity -->
+    <string name="buttonText">Show Number of Lines</string>
+    <string name="textviewText">LINK</string>
+    <string name="http">http://</string>
+
+    <!-- Exercise2Activity -->
+    <string name="buttonText2">Show Number of Character</string>
+
+    <!-- Exercise3Activity -->
+    <string name="label">JSON Exercise</string>
+    <string name="defaultText">Default Values</string>
+    <string name="getdefault">Get Default Values</string>
+
+    <!-- Exercise4Activity -->
+    <string name="amount">Amount</string>
+    <string name="rate">Rate</string>
+    <string name="months">Months</string>
+    <string name="monthPay">MonthPayment</string>
+</resources>
